@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@react-firebase/database": "^0.3.10",
-    "firebase": "^6.2.2",
+    "firebase": "^10.9.0",
     "googleanalytics": "^0.4.0",
     "history": "^4.9.0",
     "react": "^16.8.6",
